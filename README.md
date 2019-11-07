@@ -8,8 +8,11 @@ Input: [25,30] [2,19] [14, 23] [4,8]  Output: [2,23] [25,30]
 
 We use python and jupyter notebook as working environment. 
 If you want to run the code yourself install Docker and docker-compose: 
+
 https://docs.docker.com/v17.09/engine/installation/#server
+
 https://docs.docker.com/compose/install/
+
 Then run in a console: 
 ```
 docker-compose build
