@@ -24,7 +24,7 @@ The Jupyter Notebook is running at:
 http://e62d70b8ae24:8888/?token=099a73ee8fc6de3cf88c648e1ae9d8de4b8118b9a2e85973
 or http://127.0.0.1:8888/?token=099a73ee8fc6de3cf88c648e1ae9d8de4b8118b9a2e85973
 ```
-Click on the http url beginning with http://127.0.0.1:8888 or copy the whole line to your browser. You must use the complete 
+Click on the http url beginning with http://127.0.0.1:8888 or copy it to your browser. You must use the complete 
 url including the token parameter or you will be asked to enter the token parameter. Then click on MergingIntervals.ipynb.
 
 If you just want to see the results without installing or building anything click on the notebook MergingIntervals.ipynb in Github and inspect it in your browser.
