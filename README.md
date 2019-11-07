@@ -21,4 +21,4 @@ or http://127.0.0.1:8888/?token=718a34bd287ee56a0490deb1d24d30afaddf9b38130874f8
 Click on the http url beginning with http://127.0.0.1:8888 or copy the whole line to your browser. You must use the complete 
 url including the token parameter or you will be asked to enter the token parameter.
 
-If you just want to see the result click on the notebook and inspect it in your browser.
+If you just want to see the result click on the notebook MergingIntervals.ipynb in Github and inspect it in your browser.
